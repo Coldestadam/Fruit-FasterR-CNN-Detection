@@ -18,12 +18,12 @@ I used the writers advice to define the hyperparameters:
 - B2 = 0.999
 - Learning Rate = 0.001–0.0001
 
-## [Samples](samples)
+## Samples
 
 Here is a sample of my Faster R-CNN model predicting the correct location and class of the orange.
 ![img](samples/sample_9.jpg)
 
-Please click on the link above to check 10 sample images.
+[Please click here to see my 10 sample images.](samples)
 
 ## Results:
 I was not able to get the best results due to lack of resources, but I was able to implement the algorithm which was my goal. Thank you for checking this out!
