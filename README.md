@@ -11,7 +11,7 @@ These are the files I modified:
 3. [rpn.py](https://github.com/Coldestadam/vision_/blob/master/torchvision/models/detection/rpn.py)
 
 ## Methods
-I chose to learn more about other optimization algorithms and I followed the advice of this article named [*Optimization Algorithms in Deep Learning*](https://towardsdatascience.com/optimization-algorithms-in-deep-learning-191bfc2737a4). The writer states that the [Adam Optimizer](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam) is the best algorithm for its ability to both use momentum and scaling to mix the algoritms of SGD + momentum and RMS Prop.
+I chose to learn more about other optimization algorithms and I followed the advice of this article named [*Optimization Algorithms in Deep Learning*](https://towardsdatascience.com/optimization-algorithms-in-deep-learning-191bfc2737a4). The writer states that the [Adam Optimizer](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam) is the best algorithm for its ability to both use momentum and scaling to mix the algorithms of SGD + momentum and RMS Prop.
 
 I used the writers advice to define the hyperparameters:
 - B1 = 0.9
