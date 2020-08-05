@@ -1,6 +1,11 @@
 # Fruit Detection using Faster R-CNNs
 Using Pytorch to create multiple Faster R-CNN models to detect images of fruit.
 
+## Dataset
+[Fruit Images for Object Detection](https://www.kaggle.com/mbkinaci/fruit-images-for-object-detection)
+
+This dataset has images of apples, bananas, and oranges for the purpose of object detection. There are also images that have all three fruits within them, but most are uniform in their classes.
+
 ## Modified Faster R-CNN model
 I modified PyTorch's torchvision Faster R-CNN class to both give losses and predictions while in eval() mode to allow ease of access to calculate the training loss.
 My modified torchvision repository is [HERE](https://github.com/Coldestadam/vision_)
