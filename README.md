@@ -1,4 +1,4 @@
-# Fruit-FasterR-CNN-Detection
+# Fruit Detection using Faster R-CNNs
 Using Pytorch to create multiple Faster R-CNN models to detect images of fruit.
 
 ## Modified Faster R-CNN model
