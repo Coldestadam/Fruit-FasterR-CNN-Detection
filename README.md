@@ -12,7 +12,7 @@ These are the files I modified:
 
 ## [Samples](samples)
 
-[!img](samples/sample_9.jpg)
+![img](samples/sample_9.jpg)
 
 Please click on the link above to check 10 sample images.
 
