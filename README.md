@@ -10,8 +10,17 @@ These are the files I modified:
 2. [roi_heads.py](https://github.com/Coldestadam/vision_/blob/master/torchvision/models/detection/roi_heads.py)
 3. [rpn.py](https://github.com/Coldestadam/vision_/blob/master/torchvision/models/detection/rpn.py)
 
+## Methods
+I chose to learn more about other optimization algorithms and I followed the advice of this article named [*Optimization Algorithms in Deep Learning*](https://towardsdatascience.com/optimization-algorithms-in-deep-learning-191bfc2737a4). The writer states that the [Adam Optimizer](https://en.wikipedia.org/wiki/Stochastic_gradient_descent#Adam) is the best algorithm for its ability to both use momentum and scaling to mix the algoritms of SGD + momentum and RMS Prop.
+
+I used the writers advice to define the hyperparameters:
+- B1 = 0.9
+- B2 = 0.999
+- Learning Rate = 0.001–0.0001
+
 ## [Samples](samples)
 
+Here is a sample of my Faster R-CNN model predicting the correct location and class of the orange.
 ![img](samples/sample_9.jpg)
 
 Please click on the link above to check 10 sample images.
