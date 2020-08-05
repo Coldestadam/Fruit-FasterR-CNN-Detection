@@ -11,3 +11,10 @@ These are the files I modified:
 3. [rpn.py](https://github.com/Coldestadam/vision_/blob/master/torchvision/models/detection/rpn.py)
 
 ## [Samples](samples)
+
+[!img](samples/sample_9.jpg)
+
+Please click on the link above to check 10 sample images.
+
+## Results:
+I was not able to get the best results due to lack of resources, but I was able to implement the algorithm which was my goal. Thank you for checking this out!
